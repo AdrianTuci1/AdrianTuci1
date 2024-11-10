@@ -16,7 +16,11 @@ across several domains, from web development and backend engineering to UI/UX de
 
 
 💻 Tech Stack
+
 Languages: JavaScript, Python, TypeScript, HTML/CSS, SQL
+
 Frameworks & Libraries: React, Node.js, Express, Django, Next.js, GSAP
+
 Tools: Git, Docker, Figma, VS Code, AWS, Vercel
+
 Other Interests: Cloud Computing, Data Visualization, Microservices Architecture, Web Animation
