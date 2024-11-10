@@ -6,7 +6,7 @@ I'm a passionate developer and problem-solver with a strong focus on building sc
 across several domains, from web development and backend engineering to UI/UX design and data science. I love to explore new technologies and work on projects that challenge me to grow.
 
 
-🔭 Currently working on: [Dental Management App] (https://github.com/AdrianTuci1/dentalsync)
+🔭 Currently working on: [Dental Management App](https://github.com/AdrianTuci1/dentalsync)
 
 👯 Looking to collaborate on open-source projects and innovative startups
 
