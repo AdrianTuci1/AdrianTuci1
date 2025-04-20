@@ -17,7 +17,8 @@ Seeking collaborations on impactful open-source projects and innovative startups
 ## 💬 Expertise
 
 * **Web:** React, Next.js, TypeScript, Modern JavaScript, Responsive Design, **Offline Integration (Workbox)**
-* **Backend:** Node.js, Express, Python (Django), REST APIs, Microservices
+* **Database:** MariaDB, MySQL, PostgreSQL, GraphQL, MongoDB, Firebase
+* **Backend:** Node.js, Express, Python (Django), REST APIs, Microservices, Laravel, Rust
 * **Cloud & Infrastructure:** AWS, Vercel, Serverless, Docker, **Scalable VPS Architecture**
 * **UI/UX:** Figma, User-Centered Design, Prototyping
 * **Interactive:** WebGL, Web Animation
@@ -29,7 +30,7 @@ Seeking collaborations on impactful open-source projects and innovative startups
 
 ## 💻 Tech Stack
 
-JavaScript, TypeScript, Python | React, Next.js, Node.js, Express, Django, Workbox, GSAP | AWS, Docker | Figma | Git
+JavaScript, TypeScript, Python | React, Next.js, Node.js, Express, Django, PostgreSQL | GraphQL, Workbox, GSAP | AWS, Docker | Figma | Git
 
 ## ✨ Exploring
 
