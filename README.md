@@ -1,37 +1,13 @@
-# 👋 Adrian | Full-Stack Web Developer | Cloud & AI Integration
+# Adrian Tucicovenco | Full Stack & Cloud Architect
 
-A passionate full-stack developer delivering robust and user-centric web solutions, specializing in cloud infrastructure, scalable VPS architecture, offline integration via Workbox, backend architecture, professional UI/UX design, interactive WebGL, and AI integration.
+Crafting robust full-stack solutions with a keen eye for **DevOps automation and optimized AWS architectures**. I specialize in bringing digital products to life, from intuitive front-ends to scalable, AI-powered back-ends.
 
-## 🚀 About
+My experience includes leading the technical build of two startups to production and delivering comprehensive web development for a range of businesses. I'm adept at implementing **CI/CD pipelines, managing AWS infrastructure (Solution Architect & DevOps Professional mindset), and ensuring secure, high-performing applications**.
 
-Full-stack expertise driving performant and resilient web applications. Focused on scalable VPS deployments, seamless offline experiences with Workbox, robust backend systems, efficient cloud strategies, intuitive user interfaces, immersive WebGL, and leveraging AI for enhanced functionality.
+**Core Proficiencies:**
+* **Cloud & DevOps:** AWS (Solutions Architect & DevOps principles), Docker, Terraform, CI/CD
+* **Backend:** Node.js (NestJS), PHP, Laravel, PostgreSQL, MySQL
+* **Frontend:** JavaScript, React, VueJS, HTML/CSS/SCSS
+* **AI/Tools:** LangChain, WebSockets, Git, Photoshop, Figma
 
-## 🔭 Current Project
-
-Leading development of a Dental Management Application, utilizing modern web technologies, a scalable VPS architecture, and strategies for potential offline functionality.
-
-## 🤝 Collaborate
-
-Seeking collaborations on impactful open-source projects and innovative startups leveraging cutting-edge web, cloud, scalable infrastructure, offline capabilities, and AI technologies.
-
-## 💬 Expertise
-
-* **Web:** React, Svelte, TypeScript, Modern JavaScript, Responsive Design, **Offline Integration (Workbox)**
-* **Database:** MariaDB, MySQL, PostgreSQL, GraphQL, MongoDB, Firebase
-* **Backend:** Node.js, Express, Python (Django), REST APIs, Microservices, Laravel, Rust, Kafka
-* **Cloud & Infrastructure:** AWS, Vercel, Serverless, Docker, Kubernetes, NGINIX, **Scalable VPS Architecture**
-* **UI/UX:** Figma, User-Centered Design, Prototyping
-* **Interactive:** WebGL, Web Animation, GSAP
-* **AI:** Integration of AI/ML solutions in web applications
-
-## 📫 Connect
-
-[adrian.tucicovenco@gmail.com](mailto:adrian.tucicovenco@gmail.com)
-
-## 💻 Tech Stack
-
-JavaScript, TypeScript, Python | React, Svelte, Node.js, Express, Django, PostgreSQL | GraphQL, Workbox, GSAP | AWS, Docker | Figma | Git
-
-## ✨ Exploring
-
-Cloud Architectures, Data Visualization, Microservices, Advanced Web Animation, AI/ML in Web Development, **Advanced Caching Strategies, Performance Optimization for Offline Apps**
+Building reliable and innovative digital experiences.
