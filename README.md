@@ -8,6 +8,6 @@ My experience includes leading the technical build of two startups to production
 * **Cloud & DevOps:** AWS (Solutions Architect & DevOps principles), Docker, Terraform, CI/CD
 * **Backend:** Node.js (NestJS), PHP, Laravel, PostgreSQL, MySQL
 * **Frontend:** JavaScript, React, VueJS, HTML/CSS/SCSS
-* **AI/Tools:** LangChain, WebSockets, Git, Photoshop, Figma
+* **AI/Tools:** LangChain, LangGraph, WebSockets, Git, Photoshop, Figma
 
 Building reliable and innovative digital experiences.
