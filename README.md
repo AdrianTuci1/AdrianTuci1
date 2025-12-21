@@ -1,13 +1,32 @@
-# Adrian Tucicovenco | Full Stack & Cloud Architect
+# 👨‍💻 Systems Architect & AI/ML Engineer
 
-Crafting robust full-stack solutions with a keen eye for **DevOps automation and optimized AWS architectures**. I specialize in bringing digital products to life, from intuitive front-ends to scalable, AI-powered back-ends.
+> **Bridging the gap between high-level research and scalable production systems.**
 
-My experience includes leading the technical build of two startups to production and delivering comprehensive web development for a range of businesses. I'm adept at implementing **CI/CD pipelines, managing AWS infrastructure (Solution Architect & DevOps Professional mindset), and ensuring secure, high-performing applications**.
+I am a Systems Architect and Researcher specializing in **Distributed Systems** and **Applied AI**. My focus is on building resilient, high-concurrency architectures and autonomous data systems that transform complex information into actionable intelligence.
 
-**Core Proficiencies:**
-* **Cloud & DevOps:** AWS (Solutions Architect & DevOps principles), Docker, Terraform, CI/CD
-* **Backend:** Node.js (NestJS), PHP, Laravel, PostgreSQL, MySQL
-* **Frontend:** JavaScript, React, VueJS, HTML/CSS/SCSS
-* **AI/Tools:** LangChain, LangGraph, WebSockets, Git, Photoshop, Figma
+---
 
-Building reliable and innovative digital experiences.
+### 🛠️ Technical Ecosystem
+
+| **Area** | **Expertise** |
+| :--- | :--- |
+| **Architectures** | Distributed Systems (BEAM/OTP), Data Foundries, Spatial Reasoning, Multi-layer Decision Platforms |
+| **Languages** | Elixir, Python, Golang, C++, Swift, TypeScript |
+| **AI & Data** | Probabilistic Modeling, RAG Frameworks, Vector Databases (Qdrant), MLOps, Data Engineering |
+| **Infrastructure** | AWS (Glue, Step Functions, Bedrock), Infrastructure as Code (CDK/CloudFormation), MLOps |
+| **Engineering** | System Design, High-Throughput Backends, CI/CD, Security & Penetration Testing |
+
+---
+
+### 🚀 Strategic Focus
+
+* **Autonomous Logic:** Engineering "zero-touch" data pipelines that adapt to unstructured global data sources.
+* **System Scale:** Optimizing high-concurrency backends capable of handling thousands of real-time streams per node.
+* **Intelligence Layers:** Implementing semantic reasoning over complex ontologies to drive automated decision-making.
+* **Structural Integrity:** Designing systems with a focus on fault tolerance, security, and long-term maintainability.
+
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](www.linkedin.com/in/tucicovenco-adrian-1155062a3)
+
+*"Engineering is not just about writing code; it's about designing the logic that defines scale."*
