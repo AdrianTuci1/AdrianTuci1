@@ -27,6 +27,6 @@ I am a Systems Architect and Researcher specializing in **Distributed Systems** 
 
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](www.linkedin.com/in/tucicovenco-adrian-1155062a3)
+- **LinkedIn:** [linkedin.com/in/tucicovenco-adrian](www.linkedin.com/in/tucicovenco-adrian-1155062a3)
 
 *"Engineering is not just about writing code; it's about designing the logic that defines scale."*
