@@ -13,7 +13,7 @@ I am a Systems Architect and Researcher specializing in **Distributed Systems** 
 | **Architectures** | Distributed Systems (BEAM/OTP), Data Foundries, Spatial Reasoning, Multi-layer Decision Platforms |
 | **Languages** | Elixir, Python, Golang, C++, Swift, TypeScript |
 | **AI & Data** | Probabilistic Modeling, RAG Frameworks, Vector Databases (Qdrant), MLOps, Data Engineering |
-| **Infrastructure** | AWS (Glue, Step Functions, Bedrock), Infrastructure as Code (CDK/CloudFormation), MLOps |
+| **Infrastructure** | AWS (Bedrock, SageMaker, EKS), Infrastructure as Code (CDK/CloudFormation), MLOps |
 | **Engineering** | System Design, High-Throughput Backends, CI/CD, Security & Penetration Testing |
 
 ---
