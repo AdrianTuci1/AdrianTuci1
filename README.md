@@ -18,14 +18,6 @@ I am a Systems Architect and Researcher specializing in **Distributed Systems** 
 
 ---
 
-### 🚀 Strategic Focus
-
-* **Autonomous Logic:** Engineering "zero-touch" data pipelines that adapt to unstructured global data sources.
-* **System Scale:** Optimizing high-concurrency backends capable of handling thousands of real-time streams per node.
-* **Intelligence Layers:** Implementing semantic reasoning over complex ontologies to drive automated decision-making.
-* **Structural Integrity:** Designing systems with a focus on fault tolerance, security, and long-term maintainability.
-
-
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/tucicovenco-adrian](www.linkedin.com/in/tucicovenco-adrian-1155062a3)
 
