@@ -1,24 +1,13 @@
 # 👨‍💻 Systems Architect & AI/ML Engineer
 
-> **Bridging the gap between high-level research and scalable production systems.**
+My experience goes further than knowing frameworks - from practical implementation of systems, I’ve been through progressive web apps with offline first approach, distributed systems with message queues and real-time synchronization, object oriented programming with SOLID principles, design patterns and advanced implementation of data structures and algorithms. Designed databases, learned sharding, deployed on multiple cloud providers, configured mailing services, data pipelines, went low level, got in-depth understanding of language models and influenced the way they work and think. 
 
-I am a Systems Architect and Researcher specializing in **Distributed Systems** and **Applied AI**. My focus is on building resilient, high-concurrency architectures and autonomous data systems that transform complex information into actionable intelligence.
+I've shipped six products so far:  
+[Query everything]() 
+[Serverless Platform]() 
+[Productivity App]() 
+[Dental Charting]()  
+[Data platform]()
+[CMS]()
 
----
-
-### 🛠️ Technical Ecosystem
-
-| **Area** | **Expertise** |
-| :--- | :--- |
-| **Architectures** | Distributed Systems (BEAM/OTP), Data Foundries, Spatial Reasoning, Multi-layer Decision Platforms |
-| **Languages** | Elixir, Python, Golang, C++, Swift, TypeScript |
-| **AI & Data** | Probabilistic Modeling, RAG Frameworks, Vector Databases (Qdrant), MLOps, Data Engineering |
-| **Infrastructure** | AWS (Bedrock, SageMaker, EKS), Infrastructure as Code (CDK/CloudFormation), MLOps |
-| **Engineering** | System Design, High-Throughput Backends, CI/CD, Security & Penetration Testing |
-
----
-
-### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/tucicovenco-adrian](www.linkedin.com/in/tucicovenco-adrian-1155062a3)
-
-*"Engineering is not just about writing code; it's about designing the logic that defines scale."*
+Outside of pure engineering I spend time on 3D modeling, game design, simulation, and robotics. Those interests keep sharpening the technical work. I research with knowledge graphs, implement features through multi-agent systems, and do most of the work from the terminal with declarative infrastructure.
